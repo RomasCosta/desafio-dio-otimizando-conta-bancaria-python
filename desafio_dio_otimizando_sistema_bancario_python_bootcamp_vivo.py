@@ -75,7 +75,7 @@ def criar_usuario(usuarios):
 
     usuarios.append({'nome': nome, 'data_nascimento': data_nascimento, 'cpf': cpf, 'endereco': endereco})
 
-    print('Usuário criado com sucesso!
+    print('Usuário criado com sucesso!')
 
 
 
